@@ -9,7 +9,7 @@
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](LICENSE)
 [![Termux](https://img.shields.io/badge/Termux-Compatible-orange?style=flat-square&logo=android)](https://termux.com/)
 
-**Bot Telegram tingkat profesional dengan AI Gemini yang powerful!**
+**Bot Telegram tingkat profesional dengan NeXo AI yang powerful!**
 
 *Dibuat oleh: Xbibz Official - MR. Nexo444*
 
@@ -81,8 +81,8 @@ curl -fsSL https://deb.nodesource.com/setup_18.x | sudo -E bash -
 sudo apt-get install -y nodejs
 
 # Clone repository
-git clone https://github.com/nexo444/nexo-ai-bot.git
-cd nexo-ai-bot
+git clone https://github.com/XbibzModder777/nexo-tele.git
+cd nexo-tele
 
 # Install dependencies otomatis
 npm start
@@ -94,8 +94,8 @@ npm start
 # Install Node.js dari https://nodejs.org/
 
 # Clone repository
-git clone https://github.com/nexo444/nexo-ai-bot.git
-cd nexo-ai-bot
+git clone https://github.com/XbibzModder777/nexo-tele.git
+cd nexo-tele
 
 # Install dependencies otomatis
 npm start
@@ -108,10 +108,6 @@ npm start
 2. Buat bot baru dengan `/newbot`
 3. Salin token yang diberikan
 
-### 2. **Gemini AI API Key**
-1. Kunjungi [Google AI Studio](https://makersuite.google.com/app/apikey)
-2. Buat API key baru
-3. Salin API key
 
 ### 3. **Owner ID**
 1. Chat dengan [@userinfobot](https://t.me/userinfobot)
@@ -310,8 +306,8 @@ Jika update bermasalah, bot akan otomatis rollback ke versi sebelumnya.
 
 ### 🛠️ **Development Setup**
 ```bash
-git clone https://github.com/nexo444/nexo-ai-bot.git
-cd nexo-ai-bot
+git clone https://github.com/XbibzModder777/nexo-tele.git
+cd nexo-tele
 npm install
 npm run dev
 ```
@@ -333,13 +329,13 @@ MIT License - lihat [LICENSE](LICENSE) untuk detail.
 ## 👨‍💻 Developer
 
 **Xbibz Official - MR. Nexo444**
-- 🌐 GitHub: [@nexo444](https://github.com/nexo444)
-- 📧 Email: nexo444@example.com
-- 💬 Telegram: [@nexo444](https://t.me/nexo444)
+- 🌐 GitHub: [@nexo444](https://github.com/XbibzOfficial)
+- 📧 Email: xbibzofficial@gmail.com
+- 💬 Telegram: [@XbibzOfficial](https://t.me/XbibzOfficial)
 
 ## 🙏 Acknowledgments
 
-- [Google Gemini AI](https://ai.google.dev/) - AI Engine
+
 - [Telegram Bot API](https://core.telegram.org/bots/api) - Bot Platform
 - [Node.js](https://nodejs.org/) - Runtime
 - [SQLite](https://sqlite.org/) - Database
@@ -350,8 +346,8 @@ MIT License - lihat [LICENSE](LICENSE) untuk detail.
 Jika project ini membantu kamu, berikan ⭐ di GitHub!
 
 ### 💝 Donation
-- 💳 PayPal: [paypal.me/nexo444](https://paypal.me/nexo444)
-- ₿ Bitcoin: `1NeXo444BitcoinAddress`
+[![Ko-Fi]()](https://ko-fi.com/xbibzofficial)
+- ₿ Bitcoin: `-`
 - 🏦 Bank: Hubungi developer
 
 ---
