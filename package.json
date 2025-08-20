@@ -1,0 +1,40 @@
+{
+  "name": "nexo-ai-telegram-bot",
+  "version": "1.0.0",
+  "description": "NeXo AI - Bot Telegram Profesional dengan AI Gemini",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js",
+    "install-deps": "npm install",
+    "update": "node src/updater.js"
+  },
+  "keywords": ["telegram", "bot", "ai", "gemini", "nexo"],
+  "author": "Xbibz Official - MR. Nexo444",
+  "license": "MIT",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.64.0",
+    "@google/generative-ai": "^0.2.1",
+    "sqlite3": "^5.1.6",
+    "axios": "^1.6.2",
+    "fs-extra": "^11.2.0",
+    "chalk": "^4.1.2",
+    "figlet": "^1.7.0",
+    "gradient-string": "^2.0.2",
+    "inquirer": "^8.2.6",
+    "ora": "^5.4.1",
+    "boxen": "^5.1.2",
+    "cli-progress": "^3.12.0",
+    "node-fetch": "^2.7.0",
+    "sharp": "^0.33.1",
+    "moment": "^2.29.4",
+    "uuid": "^9.0.1",
+    "semver": "^7.5.4"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}

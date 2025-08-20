@@ -1,0 +1,35 @@
+{
+  "bot": {
+    "token": "7435411681:AAGmnhc8JCg7ehMgX_kY5wHxlEVv6rdX4A8",
+    "owner_id": "7377733784",
+    "version": "1.0.0",
+    "update_url": "https://raw.githubusercontent.com/nexo444/nexo-ai-bot/main/version.json"
+  },
+  "ai": {
+    "gemini_api_key": "AIzaSyB01zhUpcSaz_jPn7Af9m4zgmEMfQ_aLcM",
+    "model": "gemini-1.5-flash",
+    "max_tokens": 8192,
+    "temperature": 0.7
+  },
+  "limits": {
+    "unregistered_messages": 5,
+    "premium_messages": -1,
+    "regular_messages": 100
+  },
+  "database": {
+    "path": "./data/nexo_ai.db"
+  },
+  "ui": {
+    "colors": {
+      "primary": "#00ff88",
+      "secondary": "#ff0088",
+      "accent": "#0088ff",
+      "warning": "#ffaa00",
+      "error": "#ff4444",
+      "success": "#44ff44"
+    },
+    "animations": true,
+    "banner_style": "neon"
+  }
+}
+
