@@ -346,7 +346,8 @@ MIT License - lihat [LICENSE](LICENSE) untuk detail.
 Jika project ini membantu kamu, berikan ⭐ di GitHub!
 
 ### 💝 Donation
-[![Ko-Fi]()](https://ko-fi.com/xbibzofficial)
+[![Ko-Fi](<img width="336" height="178" alt="image" src="https://github.com/user-attachments/assets/12bba1ef-7211-46a4-ac0d-287789703d5c" />
+)](https://ko-fi.com/xbibzofficial)
 - ₿ Bitcoin: `-`
 - 🏦 Bank: Hubungi developer
 
