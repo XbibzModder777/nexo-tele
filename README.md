@@ -9,7 +9,7 @@
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](LICENSE)
 [![Termux](https://img.shields.io/badge/Termux-Compatible-orange?style=flat-square&logo=android)](https://termux.com/)
 
-**Bot Telegram tingkat profesional dengan NeXo AI yang powerful!**
+**NeXo AI** 
 
 *Dibuat oleh: Xbibz Official - MR. Nexo444*
 
