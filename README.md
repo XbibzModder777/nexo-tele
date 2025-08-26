@@ -66,7 +66,7 @@ pkg update && pkg upgrade -y
 pkg install nodejs git -y
 
 # Clone repository
-git clone https://github.com/nexo444/nexo-ai-bot.git
+git clone [[[https://github.com/nexo444/nexo-ai-bot.git](https://github.com/XbibzModder777/nexo-tele.git)](https://github.com/XbibzModder777/nexo-tele.git)](https://github.com/XbibzModder777/nexo-tele.git)
 cd nexo-ai-bot
 
 # Install dependencies otomatis
